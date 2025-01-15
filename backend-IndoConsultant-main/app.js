@@ -12,7 +12,7 @@ if (!fs.existsSync(uploadsDir)) {
 }
 
 const corsOptions = {
-    origin: 'http://213.210.21.23', 
+    origin: 'http://213.210.21.23/3000', 
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true,
   };  
