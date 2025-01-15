@@ -1,0 +1,218 @@
+[
+    {
+        "PortfolioId": 1,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 1,
+        "isi": "DTM"
+    },
+    {
+        "PortfolioId": 1,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 1,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 2,
+        "isi": "Point Cloud Lidar"
+    },
+    {
+        "PortfolioId": 2,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 3,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 3,
+        "isi": "DTM"
+    },
+    {
+        "PortfolioId": 3,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 3,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 4,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 4,
+        "isi": "Digital Terrain Model"
+    },
+    {
+        "PortfolioId": 4,
+        "isi": "Digital Surface Model"
+    },
+    {
+        "PortfolioId": 4,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 4,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 5,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 5,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 5,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 6,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 6,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 6,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 7,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 7,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 7,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 8,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 8,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 8,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 9,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 9,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 9,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 10,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 10,
+        "isi": "Digital Terrain Model"
+    },
+    {
+        "PortfolioId": 10,
+        "isi": "Digital Surface Model"
+    },
+    {
+        "PortfolioId": 10,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 10,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 11,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 11,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 11,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 11,
+        "isi": "Laporan Akhir"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "DTM"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "DSM"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "CHM"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 13,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 13,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 13,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 14,
+        "isi": "Peta Foto Udara"
+    },
+    {
+        "PortfolioId": 14,
+        "isi": "Peta Tutupan Lahan"
+    },
+    {
+        "PortfolioId": 14,
+        "isi": "Peta Kontur"
+    },
+    {
+        "PortfolioId": 15,
+        "isi": "DTM"
+    },
+    {
+        "PortfolioId": 15,
+        "isi": "DSM"
+    },
+    {
+        "PortfolioId": 15,
+        "isi": "Cross Section Sungai"
+    }
+]

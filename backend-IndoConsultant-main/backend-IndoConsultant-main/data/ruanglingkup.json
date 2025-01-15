@@ -1,0 +1,94 @@
+[
+    {
+        "PortfolioId": 1,
+        "isi": "Akuisisi LiDAR dan Foto Udara"
+    },
+    {
+        "PortfolioId": 1,
+        "isi": "Pengolahan data akuisisi"
+    },
+    {
+        "PortfolioId": 2,
+        "isi": "Akuisisi LiDAR dan Foto Udara"
+    },
+    {
+        "PortfolioId": 7,
+        "isi": "Pembuatan Foto Tegak"
+    },
+    {
+        "PortfolioId": 7,
+        "isi": "Pengolahan Data"
+    },
+    {
+        "PortfolioId": 8,
+        "isi": "Pemotretan Udara dengan UAV"
+    },
+    {
+        "PortfolioId": 8,
+        "isi": "Pengukuran titik kontrol dengan survey GNSS"
+    },
+    {
+        "PortfolioId": 8,
+        "isi": "Pemasangan dan pengukuran BM"
+    },
+    {
+        "PortfolioId": 9,
+        "isi": "Pengukuran Survei Batimetri di Koridor Tuban – Gresik"
+    },
+    {
+        "PortfolioId": 9,
+        "isi": "Pengolahan Data XYZ data Batimetri Kedalam Format LAS dan CSV"
+    },
+    {
+        "PortfolioId": 10,
+        "isi": "Pemotretan Udara dengan UAV"
+    },
+    {
+        "PortfolioId": 10,
+        "isi": "Pengukuran Titik Kontrol foto udara dengan survey GNSS"
+    },
+    {
+        "PortfolioId": 10,
+        "isi": "Pemasangan dan Pengukuran BM sepasang"
+    },
+    {
+        "PortfolioId": 11,
+        "isi": "Akuisisi Data Foto Udara"
+    },
+    {
+        "PortfolioId": 11,
+        "isi": "Pengolahan Data Foto Udara"
+    },
+    {
+        "PortfolioId": 11,
+        "isi": "Pelaporan"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "Pengambilan data foto udara"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "Pengolahan data DSM, DTM, dan CHM"
+    },
+    {
+        "PortfolioId": 12,
+        "isi": "Pemrosesan data menjadi mosaik data"
+    },
+    {
+        "PortfolioId": 13,
+        "isi": "Penyediaan citra satelit resolusi tinggi"
+    },
+    {
+        "PortfolioId": 13,
+        "isi": "Pengukuran titik kontrol dengan Survey GNSS"
+    },
+    {
+        "PortfolioId": 13,
+        "isi": "Pemasangan dan pengukuran BM"
+    },
+    {
+        "PortfolioId": 13,
+        "isi": "Pengukuran titik GCP dan ICP"
+    }
+]

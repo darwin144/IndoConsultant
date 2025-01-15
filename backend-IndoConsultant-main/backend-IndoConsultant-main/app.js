@@ -11,15 +11,7 @@ if (!fs.existsSync(uploadsDir)) {
     fs.mkdirSync(uploadsDir, { recursive: true });
 }
 
-//update cors
-const corsOptions = {
-    origin: 'http://213.210.21.23', 
-    methods: ['GET', 'POST', 'PUT', 'DELETE'],
-    credentials: true,
-  };  
-app.use(cors(corsOptions));
-  
-  
+app.use(cors());
 const { authentication } = require('./middleware/authentication')
 app.use(express.static('public'));
 
@@ -103,7 +95,7 @@ app.delete('/ruanglingkups/:id', authentication, controller.deleteRuanglingkup);
 
 
 // Melayani file statis React
-const distPath = path.join(__dirname, 'fe-build');
+const distPath = path.join(__dirname, 'dist');
 app.use(express.static(distPath));
 
 app.get('*', (req, res) => {
