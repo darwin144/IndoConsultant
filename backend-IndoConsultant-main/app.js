@@ -11,7 +11,6 @@ if (!fs.existsSync(uploadsDir)) {
     fs.mkdirSync(uploadsDir, { recursive: true });
 }
 
-//update cors
 const corsOptions = {
     origin: 'http://213.210.21.23', 
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
