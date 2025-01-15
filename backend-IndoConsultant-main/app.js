@@ -11,13 +11,16 @@ if (!fs.existsSync(uploadsDir)) {
     fs.mkdirSync(uploadsDir, { recursive: true });
 }
 
-const corsOptions = {
-    origin: 'http://213.210.21.23/3000', 
-    methods: ['GET', 'POST', 'PUT', 'DELETE'],
-    credentials: true,
-  };  
-app.use(cors(corsOptions));
+
+// const corsOptions = {
+//     origin: 'http://213.210.21.23', 
+//     methods: ['GET', 'POST', 'PUT', 'DELETE'],
+//     credentials: true,
+//   };  
+// app.use(cors(corsOptions));
   
+app.use(cors());
+
   
 const { authentication } = require('./middleware/authentication')
 app.use(express.static('public'));
