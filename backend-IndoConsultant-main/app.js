@@ -12,7 +12,6 @@ if (!fs.existsSync(uploadsDir)) {
 }
 
 
-//testing
 app.use(cors({
   origin: 'http://213.210.21.23', 
   credentials: true 
