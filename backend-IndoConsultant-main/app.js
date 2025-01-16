@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 3001;
 const path = require('path');
 const multer = require('multer');
 const cors = require('cors');
@@ -12,14 +12,13 @@ if (!fs.existsSync(uploadsDir)) {
 }
 
 
-// const corsOptions = {
-//     origin: 'http://213.210.21.23', 
-//     methods: ['GET', 'POST', 'PUT', 'DELETE'],
-//     credentials: true,
-//   };  
-// app.use(cors(corsOptions));
+
+app.use(cors({
+  origin: 'http://213.210.21.23', 
+  credentials: true 
+}));
   
-app.use(cors());
+//app.use(cors());
 
   
 const { authentication } = require('./middleware/authentication')
@@ -104,7 +103,7 @@ app.delete('/ruanglingkups/:id', authentication, controller.deleteRuanglingkup);
 
 
 
-// Melayani file statis React
+//Melayani file statis React
 const distPath = path.join(__dirname, 'fe-build');
 app.use(express.static(distPath));
 
@@ -114,6 +113,10 @@ app.get('*', (req, res) => {
 
 
 
-app.listen(port, () => {
+// app.listen(port, () => {
+//     console.log(`App running on port ${port}`);
+// });
+
+app.listen(port, '0.0.0.0', () => {
     console.log(`App running on port ${port}`);
 });
